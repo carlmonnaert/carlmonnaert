@@ -7,4 +7,4 @@ Here you will be able to see the projects that I have realized along my computer
 - :raised_hand: Ask me about anything you want to know more about on my profile and my displayed projects
 - :email: To contact me, you can find my LinkedIn and my email on my profile, choose whichever you prefer !
 
-![My resume: ](resume.pdf)
+Here you will find my english [resume](resume.pdf).
