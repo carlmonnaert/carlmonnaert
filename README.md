@@ -21,4 +21,4 @@ I am a quantitative researcher and engineering student specializing in applied m
 * **Languages:** Python, C, SQL.
 * **Libraries & Environments:** NumPy, Pandas, Scikit-Learn, Git, VS Code.
 
-My complete resume is available [here](https://www.google.com/search?q=https://carlmonnaert.github.io/resume.pdf). Contact me via the email or LinkedIn profile linked on this page.
+My complete resume is available [here](https://carlmonnaert.github.io/resume.pdf). Contact me via the email or LinkedIn profile linked on this page.
